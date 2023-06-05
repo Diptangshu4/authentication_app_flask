@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Hi, I'm Diptangshu Bhattacharjee</h1>
+            <h2>Web Developer &amp; Designer</h2>
+            <p>Welcome to my portfolio website.</p>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am a passionate web developer with a keen eye for design. I specialize in creating beautiful and functional websites that provide exceptional user experiences.</p>
+        </div>
+    </section>
+
+    <section class="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project-card">
+                <img src="{{ url_for('static', filename='images/project1.jpg') }}" alt="Project 1">
+                <div class="project-info">
+                    <h3>Project 1</h3>
+                    <p>This is a description of Project 1.</p>
+                </div>
+            </div>
+            <div class="project-card">
+                <img src="{{ url_for('static', filename='images/project2.jpg') }}" alt="Project 2">
+                <div class="project-info">
+                    <h3>Project 2</h3>
+                    <p>This is a description of Project 2.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Feel free to reach out to me for any inquiries or collaboration opportunities.</p>
+            <a href="mailto:contact@example.com" class="btn btn-primary">Email Me</a>
+        </div>
+    </section>
+{% endblock %}
