@@ -1,10 +1,6 @@
 <h1 align="center">Authentication App</h1>
 
 <p align="center">
-  <img src="https://your_image_link_here" alt="Project Logo" width="200">
-</p>
-
-<p align="center">
   <strong>🔒 A Secure Authentication App built with Flask</strong>
 </p>
 
@@ -35,6 +31,19 @@ This project serves as a template for implementing user authentication in Flask 
 - Logout functionality
 - Secure session management
 - Simple and intuitive UI
+
+---
+
+Images:
+
+<img width="1352" alt="Login:Registe" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/22f04096-e110-47a1-adf8-2b2e8ccb9dc8">
+<img width="1352" alt="Screen Shot 2023-06-06 at 2 45 22 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/3382c7d8-f684-4c62-a3fc-0925843cd039">
+<img width="1352" alt="Screen Shot 2023-06-06 at 2 46 11 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/ec86cc78-808a-41c8-bad6-69cf2b562bb0">
+<img width="1352" alt="Screen Shot 2023-06-06 at 2 46 42 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/0ed664b3-b522-4c86-83c5-37a6d12bbfd5">
+<img width="1352" alt="Screen Shot 2023-06-06 at 2 46 58 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/e806cd98-28ac-416d-91f4-305e73428da9">
+<img width="1352" alt="Screen Shot 2023-06-06 at 2 47 08 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/d35fbd01-de65-48b9-b29d-bd5b352f9866">
+<img width="1352" alt="Screen Shot 2023-06-06 at 2 47 17 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/a73a8f63-7430-44d5-98a0-9deb6f7f54b5">
+
 
 ---
 
