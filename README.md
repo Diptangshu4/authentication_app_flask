@@ -7,10 +7,11 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
+  <a href="#images">Images</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="#contact me">Contact Me</a>
 </p>
 
 ---
@@ -34,7 +35,7 @@ This project serves as a template for implementing user authentication in Flask 
 
 ---
 
-Images:
+## Images:
 
 <img width="1352" alt="Login:Registe" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/22f04096-e110-47a1-adf8-2b2e8ccb9dc8">
 <img width="1352" alt="Screen Shot 2023-06-06 at 2 45 22 AM" src="https://github.com/Diptangshu4/authentication_app_flask/assets/75307938/3382c7d8-f684-4c62-a3fc-0925843cd039">
@@ -75,7 +76,7 @@ Access the application in your web browser at http://localhost:5000.
 
 ---
 
-🎯 Usage
+## 🎯 Usage
 
 Register a new user by providing a username and password.
 Log in with your credentials to access your profile page.
@@ -84,7 +85,7 @@ Log out to end the session.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page for any existing issues or open a new one.
 
@@ -96,7 +97,7 @@ Open a pull request.
 
 ---
 
-Contact Me:
+## Contact Me:
 
 E-Mail: diptangshu4@gamil.com
 
